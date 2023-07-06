@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.236,=C:\Users\Serg_piv\Downloads\money.ico</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,C:\Users\Serg_piv\Downloads\money.ico=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.977,=C:\Users\user\Desktop\курсовая\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\user\Documents\курсовая\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\user\Documents\курсовая\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\user\Documents\курсовая\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.748,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\user\Documents\курсовая\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,C:\Users\Serg_piv\Desktop\курсовая\Unit4.dfm=C:\Users\Serg_piv\Desktop\курсовая\mod_dann.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.885,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\user\Documents\курсовая\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.803,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,C:\Users\Serg_piv\Desktop\курсовая\Unit4.cpp=C:\Users\Serg_piv\Desktop\курсовая\mod_dann.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.434,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,=C:\Users\Serg_piv\Desktop\курсовая\Win32\Release\res\money.ico</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,=C:\Users\user\Documents\курсовая\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,C:\Users\Serg_piv\Desktop\курсовая\MillionerPCH1.h=C:\Users\Serg_piv\Desktop\курсовая\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\user\Documents\курсовая\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.999,C:\Users\Serg_piv\Desktop\курсовая\Millioner.cbproj=C:\Users\Serg_piv\Desktop\курсовая\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\user\Documents\курсовая\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,=C:\Users\Serg_piv\Desktop\курсовая\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,=C:\Users\user\Desktop\курсовая\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.537,C:\Users\Serg_piv\Desktop\курсовая\Unit4.h=C:\Users\Serg_piv\Desktop\курсовая\mod_dann.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\user\Documents\курсовая\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
